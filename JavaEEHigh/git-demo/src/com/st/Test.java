@@ -7,5 +7,6 @@ package com.st;
 public class Test {
     public static void main(String[] args) {
         System.out.println("hello Git,我来了");
+        System.out.println("hello GitHub,我来了");
     }
 }
