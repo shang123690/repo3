@@ -9,5 +9,6 @@ public class Test {
         System.out.println("hello Git,我来了");
         System.out.println("hello GitHub,我来了");
         System.out.println("11111111111111111");
+        System.out.println("222222222");
     }
 }
